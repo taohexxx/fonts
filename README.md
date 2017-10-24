@@ -1,6 +1,6 @@
-# Font
+# Fonts
 
-## Patch Your Own Font
+## Patch Your Own Fonts
 
 ### macOS
 
