@@ -22,6 +22,20 @@ Double click `Meslo Regular Nerd Font Complete.otf` to install.
 
 `iTerm2` -> `Prefs...` -> `Profiles` -> `Text` -> check `Use Ligatures`
 
+### Visual Studio Code
+
+```
+// Controls the font family.
+"editor.fontFamily": "'Meslo Nerd Font', Menlo, Monaco, 'Courier New', monospace",
+
+// Enables font ligatures
+"editor.fontLigatures": true,
+```
+
+### Atom
+
+`Atom` -> `Prefs...` -> `Editor` -> `Font Family` -> fill in `Meslo Nerd Font`
+
 ## Patch Your Own Fonts
 
 ### macOS
