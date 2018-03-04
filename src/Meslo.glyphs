@@ -138762,13 +138762,13 @@ width = 600;
 {
 color = 3;
 glyphname = period_hyphen.liga;
-lastChange = "2018-02-20 03:56:45 +0000";
+lastChange = "2018-03-04 01:23:06 +0000";
 layers = (
 {
 components = (
 {
 name = period;
-transform = "{1.41377, 0, 0, 1.41377, -1383, 341}";
+transform = "{1.41377, 0, 0, 1.41377, -1530, 341}";
 }
 );
 layerId = "3F42F969-BD6F-4F86-8089-1D5B5CB6E2D2";
@@ -138812,13 +138812,13 @@ width = 600;
 {
 color = 3;
 glyphname = period_equal.liga;
-lastChange = "2018-02-20 03:56:56 +0000";
+lastChange = "2018-03-04 01:22:56 +0000";
 layers = (
 {
 components = (
 {
 name = period;
-transform = "{1.41377, 0, 0, 1.41377, -1383, 341}";
+transform = "{1.41377, 0, 0, 1.41377, -1530, 341}";
 }
 );
 layerId = "3F42F969-BD6F-4F86-8089-1D5B5CB6E2D2";
