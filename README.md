@@ -4,14 +4,6 @@ Collection of patched fonts with programming ligature for Powerline, Font Awesom
 
 Enjoy programming (especially on macOS).
 
-## Font Lists
-
-### Meslo
-
-Meslo is based upon Apple's Menlo and contains programming ligature and many other symbols.
-
-![meslo](https://github.com/taohex/fonts/blob/gh-pages/images/meslo.png)
-
 ## Usage
 
 Double click `Meslo Regular Nerd Font Complete.otf` to install.
